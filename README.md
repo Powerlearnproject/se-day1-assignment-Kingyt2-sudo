@@ -9,7 +9,7 @@ Q    Explain what software engineering is and discuss its importance in the tech
 WHAT IS SOFTWARE ENGINEERING.
 Software engineering is a branch of computer science that involves the systematic application of engineering principles to the design, development, testing, deployment, and maintenance of software.
 
-IMPORTANCE TO THE TECH INDUSTRY.
+IMPORTANCE TO THE TECHNOLOGY INDUSTRY.
 1. Software engineering practices ensure that applications are free from major bugs through testing, secure, and perform efficiently.
 2. Developers can streamline workflows, automate repetitive tasks, and write reusable code, leading to increased productivity.
 3. Facilitates Scalability
